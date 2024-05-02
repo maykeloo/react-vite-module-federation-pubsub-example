@@ -8,19 +8,27 @@ This is a multi-module project that demonstrates the use of module federation wi
 npm install
 ```
 
+### Requirements
+
+- [pnpm](https://pnpm.io/) - Package manager
+
 ### Running the Project
 
 To build the project, run:
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 To start the project, run:
 
 ```bash
-npm run serve
+pnpm run serve
 ```
+
+## In browser
+
+Open the browser and navigate to `shell` preview's URL. The default URL is ` http://localhost:5000/`.
 
 ## Built With
 
