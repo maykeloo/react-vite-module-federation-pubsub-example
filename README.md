@@ -1,4 +1,4 @@
-# Project Title
+# React & Vite Module Federation Example
 
 This is a multi-module project that demonstrates the use of module federation with Vite and React. It consists of three main modules: `counter`, `basket`, and `shell`.
 
